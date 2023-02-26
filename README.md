@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi! I'm Abbos To'lqinov <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
 ![Total Views](https://views.whatilearened.today/views/github/hastagAB/hastagAB.svg)
-[![Twitter: sudo_neo](https://img.shields.io/twitter/follow/sudo_neo?style=social)](https://twitter.com/sudo_neo)
+[![Twitter: Abbos](https://img.shields.io/twitter/follow/sudo_neo?style=social)](https://twitter.com/sudo_neo)
 [![Linkedin: HastagAB](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hastagab/)](https://www.linkedin.com/in/hastagab/)
 [![GitHub hastagAB](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/hastagAB)
 
