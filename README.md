@@ -2,7 +2,7 @@
 
 ![Total Views](https://views.whatilearened.today/views/github/hastagAB/hastagAB.svg)
 [![Twitter: Abbos](https://img.shields.io/twitter/follow/sudo_neo?style=social)](https://twitter.com/sudo_neo)
-[![Linkedin: To'lqinov Abbos](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/To'lqinov Abbos/)](https://www.linkedin.com/in/To'lqinov Abbos/)
+[![Linkedin: To'lqinovAbbos](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/To'lqinov Abbos/)](https://www.linkedin.com/in/To'lqinovAbbos/)
 [![GitHub abbos1711](https://img.shields.io/github/followers/abbps1711?label=follow&style=social)](https://github.com/abbos1711)
 
 
