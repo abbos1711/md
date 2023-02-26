@@ -2,8 +2,8 @@
 
 ![Total Views](https://views.whatilearened.today/views/github/hastagAB/hastagAB.svg)
 [![Twitter: Abbos](https://img.shields.io/twitter/follow/sudo_neo?style=social)](https://twitter.com/sudo_neo)
-[![Linkedin: HastagAB](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hastagab/)](https://www.linkedin.com/in/hastagab/)
-[![GitHub hastagAB](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/hastagAB)
+[![Linkedin: To'lqinov Abbos](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/To'lqinov Abbos/)](https://www.linkedin.com/in/To'lqinov Abbos/)
+[![GitHub abbos1711](https://img.shields.io/github/followers/abbps1711?label=follow&style=social)](https://github.com/abbos1711)
 
 
 *I'm an Inquisitive Thinker :bulb: and a Python Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15"> who has his commitments towards Data Science :bar_chart:. Being an active Open Source contributor <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> and an innovator, I love developing research-oriented disruptive projects <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">*
